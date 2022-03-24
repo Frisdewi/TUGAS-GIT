@@ -1,2 +1,3 @@
 #tugas git
-repository dari pc local
+repository dari pc 
+RESET DAN REVERT
